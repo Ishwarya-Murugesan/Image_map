@@ -361,12 +361,16 @@ Amenities: in addition to occasion services, Jj Palace Marriage & Party Hall pro
 ```
 # OUTPUT
 
-![alt text](../imagemap/mapapp/static/map.png)
-![alt text](../imagemap/mapapp/static/home.png)
-![alt text](../imagemap/mapapp/static/college.png)
-![alt text](../imagemap/mapapp/static/ground.png)
-![alt text](../imagemap/mapapp/static/market.png)
-![alt text](../imagemap/mapapp/static/palace.png)
+<img width="1920" height="893" alt="map" src="https://github.com/user-attachments/assets/d993933b-eb31-457c-94a0-7533c61c7e6f" />
+<img width="1920" height="1080" alt="home" src="https://github.com/user-attachments/assets/108b45c7-1fbe-410e-8b85-08d0c810f16f" />
+<img width="1920" height="1080" alt="college" src="https://github.com/user-attachments/assets/1ec54dd5-4258-42cf-8b77-2d078e0a9185" />
+<img width="1920" height="1080" alt="ground" src="https://github.com/user-attachments/assets/dafabd3b-b7fb-456a-bdea-0b3c48210ee4" />
+<img width="1920" height="1080" alt="market" src="https://github.com/user-attachments/assets/b4e4818f-eba2-4761-9de1-8c0b6d7dd2de" />
+<img width="1920" height="1080" alt="palace" src="https://github.com/user-attachments/assets/fc199356-c189-491a-af2d-8f1aa9df9945" />
+
+
+
+
 
 
 
